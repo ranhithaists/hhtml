@@ -1,0 +1,91 @@
+.main{
+    background-image: url('back-image.png');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.mai{
+    height: 120px;
+    display: flex;
+    justify-content: space-around;
+}
+.mai main1 img{
+    width: 150px;
+    margin-left: 60px;
+    
+}
+
+.main2{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    
+}  
+
+.main2 a{
+     margin-left: 20px;
+     text-decoration:none;
+    
+}
+.main3{
+    margin-top: 20px;
+}
+
+.main3 a{
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+
+.main3 button{
+   background-color:rgb(223, 36, 192) ;
+   border-radius: 20px;
+   padding:10px;
+   border: 0px;
+   color: aliceblue;
+   cursor: pointer;
+   
+}
+.first{
+    
+    display: flex;
+}
+.second{
+    width:800px;
+}
+
+.hey h2{
+  font-size: 40px;
+  margin-left: 175px;
+  text-transform: capitalize;
+  
+  
+}
+
+.hey h3{
+    margin-left: 181px;
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.hey1 button{
+    margin-left: 200px;
+    background-color:rgb(223, 36, 192);
+    justify-content: space-around;
+    border-radius: 15px;
+    border-top-right-radius: 0px;
+    padding:8px 65px 8px 55px;
+    border: 0px;
+    color: aliceblue;
+    margin-top: 20px;
+    cursor: pointer;
+    
+}
+
+.hey1 button:hover{
+    color: blue;
+}
+
